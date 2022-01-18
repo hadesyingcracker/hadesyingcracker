@@ -1,6 +1,6 @@
 <img align="center" style="border-radius: 50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zuZpwGc1IvOVAJ26Esi3f8zZ541NCs_IhA&usqp=CAU">
 <h1 align="center">Hi 👋, I'm hades</h1>
-<h3 align="center">I am just pentester not hacker</h3>
+<h3 align="center"><i>I am just pentester not hacker</i></h3>
 
 - 🔭 I’m currently working on [Drac Os](www.dracos-linux.org)
 
