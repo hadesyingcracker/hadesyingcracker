@@ -1,3 +1,5 @@
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zuZpwGc1IvOVAJ26Esi3f8zZ541NCs_IhA&usqp=CAU" style="border-radius:50%">
+
 <h1 align="center">Hi 👋, I'm Hades</h1>
 
 <h3 align="center">I am not hacker, i am just tester</h3>
@@ -24,7 +26,7 @@
 
 <a href="https://twitter.com/@justhappiness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@justhappiness" height="30" width="40" /></a>
 
-<a href="https://fb.com/n1hadesforgive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n1hadesforgive" height="30" width="40" /></a>
+<a href="https://fb.com/n1hadesforgiveorgive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n1hadesforgive" height="30" width="40" /></a>
 
 <a href="https://instagram.com/@badutpubg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@badutpubg_" height="30" width="40" /></a>
 
